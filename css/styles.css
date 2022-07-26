@@ -1,7 +1,12 @@
 body {
+  font-family: Lato,sans-serif;
   margin: 0;
   background-repeat: no-repeat;
   background-size: 100%;
+  background-color: #006092;
+  /*background-image: url(bg.jpeg);*/
+
+
 }
 
 h1 {
@@ -10,6 +15,7 @@ h1 {
 
 p {
   display: inline-block;
+
 }
 
 /********* Class Identifiers*********/
@@ -19,17 +25,26 @@ p {
 }
 
 .firstDivision {
-  background-color: #E4F9F5;
+  background-color: #1FC4DA;
 }
 
 .secondDivision {
-  background-color: blue;
+  cursor: pointer;
+  background-color: #82EFEA;
   width: 200px;
   height: 200px;
 }
 
 .thirdDivision {
-  background-color: red;
+  background-color: #E9EBED;
   width: 200px;
   height: 200px;
 }
+
+/*
+background-color: #006092;
+background-color: #1FC4DA;
+background-color: #82EFEA;
+background-color: #E9EBED;
+
+*/
