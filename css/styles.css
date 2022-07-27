@@ -3,7 +3,7 @@ body {
   margin: 0;
   background-repeat: no-repeat;
   background-size: 100%;
-  background-color: #FE8C8C;
+  background-color: #006092;
   text-align: center;
   /*background-image: url(bg.jpeg);*/
 
@@ -34,20 +34,20 @@ p {
 }
 
 .firstDivision {
-  background-color: #F8BC9A;
+  background-color: #1FC4DA;
   position: relative;
   padding-top: 100px;
 }
 
 .secondDivision {
   cursor: pointer;
-  background-color: #F8D49A;
+  background-color: #82EFEA;
   width: 200px;
   height: 200px;
 }
 
 .thirdDivision {
-  background-color: #F7E6CA;
+  background-color: #E9EBED;
   width: 200px;
   height: 200px;
 }
